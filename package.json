@@ -1,0 +1,23 @@
+{
+  "name": "demo-esbuild",
+  "version": "1.0.0",
+  "description": "Concept proofs with the eslint builder",
+  "main": "index.js",
+  "dependencies": {
+    "esbuild": "^0.17.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omnix-ia/demo-esbuild.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omnix-ia/demo-esbuild/issues"
+  },
+  "homepage": "https://github.com/omnix-ia/demo-esbuild#readme"
+}
